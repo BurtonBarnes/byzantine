@@ -2,6 +2,10 @@
 
 I am researching the byzantine emperors about what could have caused their deaths or leading factors
 
+# Project Goal
+
+# Initial Thoughts
+
 ## Data Dictionary
 | Feature | Definition |
 | :- | :- |
@@ -14,3 +18,11 @@ I am researching the byzantine emperors about what could have caused their death
 |Cause_of_death| What caused the emperors death|
 |Dynasty| The name of the dynasty the emperor belonged to|
 |Length_of_reign| How long the emperor ruled|
+
+# Steps to Reproduce
+1) Clone this repo
+2) Acquire data from csv file
+3) Put the data in the file containing the cloned repo
+4) Run notebook
+
+# Takeaways and Conclusions
